@@ -37,7 +37,7 @@ default['visualstudio']['2017']['testprofessional']['default_source'] = 'https:/
 # Professional w/Update1
 default['visualstudio']['2017']['professional']['installer_file'] = 'vs_professional.exe'
 default['visualstudio']['2017']['professional']['filename'] = 'vs_professional.exe'
-default['visualstudio']['2017']['professional']['package_name'] = 'Microsoft Visual Studio Professional 2017'
+default['visualstudio']['2017']['professional']['package_name'] = 'Visual Studio Professional 2017'
 default['visualstudio']['2017']['professional']['checksum'] = ''
 default['visualstudio']['2017']['professional']['default_source'] = 'https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Professional&rel=15'
 
